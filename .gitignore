@@ -161,6 +161,8 @@ cython_debug/
 
 *.DS_Store
 *.ipynb_checkpoints
-data/
-write/
-figures/
+data/*
+write/*
+figures/*
+*/cache/
+*.h5ad
