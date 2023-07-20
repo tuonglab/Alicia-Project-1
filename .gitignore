@@ -165,3 +165,4 @@ data/*
 write/*
 figures/*
 */cache/
+*.h5ad
